@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+.navbar {
+    background: #007bff;
+    padding: 10px;
+    text-align: center;
+}
+.navbar a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background: #f1f1f1;
+}
